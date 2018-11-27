@@ -137,5 +137,4 @@ Pod::Spec.new do |s|
   # s.dependency "BLAPIManagers"
   # s.dependency "BLMediator"
 s.dependency "B_Category"
-
 end
